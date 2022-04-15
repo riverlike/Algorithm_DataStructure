@@ -1,7 +1,7 @@
 # 파이썬 자료구조와 알고리즘 for Beginner
 ---
 
-- [책](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791156645252)의 예제를 실습한 코드
+- [책](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791156645252)(한빛아카데미)의 예제를 실습한 코드
 
 ## 자료구조
 - 선형 리스트
